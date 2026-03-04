@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Alex 👋
 
-<!--
-**acelisg1/acelisg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst en formación (TripleTen Bootcamp)
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- SQL
+- Excel
+- Python (Pandas, Matplotlib)
+- Power BI
+- Data Cleaning
+- Exploratory Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Proyectos Destacados
+- Análisis de ventas retail
+- Segmentación de clientes
+- Dashboard financiero
+
+Actualmente construyendo proyectos enfocados en análisis de negocio.
